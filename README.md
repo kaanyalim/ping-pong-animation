@@ -1,6 +1,6 @@
 # Ping pong animation
 
-A Pygame animation inspired by a ping-pong-style yin-yang effect.
+test
 
 ## Run locally
 
